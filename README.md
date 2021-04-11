@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi dear, I'm Nara Barros 👋
+- 🔭 I’m currently working on automated testing of frontend.
+- 🌱 I’m currently learning automated backend, api and mobile tests.
+- 📫 How to reach me: narabarroscruz@gmail.com
+
+
+
+
 
 <!--
 **narabarros/narabarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
