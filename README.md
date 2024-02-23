@@ -1,4 +1,4 @@
-### Hi dear, I'm Nara Barros 👋
+### Hi dear, I'm Nara 👋
 - 🔭 I’m currently working on automated testing of frontend.
 - 🌱 I’m currently learning automated backend, api and mobile tests.
 - 📫 How to reach me: narabarroscruz@gmail.com
